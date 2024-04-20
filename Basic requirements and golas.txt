@@ -1,0 +1,5 @@
+This project aims to develop a programmable old-school calculator using Arduino, blending retro aesthetics with modern functionality. 
+The calculator will support basic arithmetic operations and programmable capabilities to execute custom user-defined calculations. 
+Requirements include a user-friendly interface with physical buttons, a small display, and the ability to store and recall programs.
+ It will be powered by an Arduino microcontroller, ensuring easy programming and flexibility. The design will prioritize compactness and battery efficiency, making it portable and durable. 
+The final product should appeal to both electronics hobbyists and those interested in learning programming through tangible, interactive hardware.
